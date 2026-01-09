@@ -16,7 +16,7 @@ Go to [legend](#legend-types-of-changes) for further information about the types
 ### Added
 
 - File .gitignore. [82bc345](https://github.com/AutoIt-Community/playground/commit/82bc345339e1013296d4bc740dd0b7d09b9e4e34)
-- File CHANGELOG.md (with 'keepachangelog' style and 'semver' based). [5cf6924](https://github.com/AutoIt-Community/playground/commit/5cf6924ee138b74655376f9e83bbe6ab04011344)
+- File CHANGELOG.md (with 'keepachangelog' style and 'semver' based). [2e02d93](https://github.com/AutoIt-Community/playground/commit/2e02d93940755018e0c7972f25f85b49962d01b9)
 
 ### Documented
 
