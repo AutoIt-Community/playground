@@ -29,7 +29,7 @@ Go to [legend](#legend-types-of-changes) for further information about the types
 
 - Initial commit [GitHub]. [6475636](https://github.com/AutoIt-Community/playground/commit/6475636e62cf46af03ea05205058ead433efbcfa)
 
-[Unreleased]: https://github.com/AutoIt-Community/playground/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/AutoIt-Community/playground/compare/v0.2.0...HEAD
 [0.2.0]: https://github.com/AutoIt-Community/playground/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/AutoIt-Community/playground/releases/tag/v0.1.0
 
