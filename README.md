@@ -4,7 +4,7 @@
 [![markdown](https://img.shields.io/badge/docs-Markdown-F7F4ED.svg?style=flat-square&logo=markdown&logoColor=white)]()
 [![last commit](https://img.shields.io/github/last-commit/AutoIt-Community/playground.svg?color=darkgoldenrod&style=flat-square&logo=github)](https://github.com/AutoIt-Community/playground/commits/main)
 [![contributors](https://img.shields.io/github/contributors/AutoIt-Community/playground.svg?color=darkolivegreen&style=flat-square&logo=github)](https://github.com/AutoIt-Community/playground/graphs/contributors)
-[![made-by](https://img.shields.io/badge/made_by-AutoIt_Community-steelblue.svg?style=flat-square&logo=gnubash&logoColor=white)]()
+[![made-by](https://img.shields.io/badge/made_by-AutoIt_Community-steelblue.svg?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/AutoIt-Community)
 
 ---
 
