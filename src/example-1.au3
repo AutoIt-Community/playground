@@ -5,4 +5,5 @@ _Main()
 
 Func _Main()
     ConsoleWrite('This is an example script.' & @CRLF)
+	ConsoleWrite('Der Schnuffel hat sich ein Fork Repo erstellt ^^' & @CRLF)
 EndFunc
